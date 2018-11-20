@@ -17,7 +17,7 @@ This git repository contains files for the project in the module Programming for
 
 # Project Plan Check List
 
-**1 - Chooseing a real-world phenomenon**
+**1 - Choosing a real-world phenomenon**
 - [] Identify phenomeonon 
 - [] Identify variables
 - [] Investigate the real life variables 
