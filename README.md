@@ -17,33 +17,24 @@ This git repository contains files for the project in the module Programming for
 
 # Project Plan Check List
 
-**1 - .......**
+**1 - Chooseing a real-world phenomenon**
+- [] Identify phenomeonon 
+- [] Identify variables
+- [] Investigate the real life variables 
+
+
+
+**2 - Investigating the variables**
+- [] How are the variables related
+- [] What are their likely distributions 
+- [] identify reasonables values for the variables
+
+**3 - Syntehesise Data**
+- [] 
+- [] 
 - [] 
 - [] 
 
-**2 - ......**
-- [] 
-- [] 
+**4 - Detail research**
 - [] 
 
-**3 - .......**
-- [] 
-- [] 
-- [] 
-- [] 
-
-**4 - ...............**
-- [] 
-
-
-**5 - ..............**
-- [] 
-
-**6 - ...........**
-- [] 
-
-**7 - ..............**
-- [] 
-
-**8 - .................**
-- [] 
